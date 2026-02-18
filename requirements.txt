@@ -4,7 +4,8 @@ torchaudio
 numpy
 pandas
 scikit-learn
-streamlit
+streamlit>=1.23
+altair>=5
 opencv-python-headless
 moviepy
 librosa
